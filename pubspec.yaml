@@ -1,6 +1,6 @@
 name: zero_story_editor
 description: "This package uses style of WhatsApp story image/video editor, you can edit images and videos. You can add texts, stickers, finger drawing, apply filter, and undo"
-version: 0.0.1
+version: 0.0.2
 
 license: MIT
 
@@ -17,7 +17,7 @@ dependencies:
     sdk: flutter
   image_cropper: ^5.0.1
   video_player: ^2.8.6
-  video_trimmer: ^3.0.1
+  video_trimmer: ^2.0.1
   video_thumbnail: ^0.5.3
   hsv_color_pickers: ^0.3.0
   perfect_freehand: ^2.3.2
