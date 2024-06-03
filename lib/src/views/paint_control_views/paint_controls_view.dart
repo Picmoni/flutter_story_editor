@@ -1,10 +1,10 @@
 import 'dart:io';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_story_editor/src/controller/controller.dart';
-import 'package:flutter_story_editor/src/models/simple_sketecher.dart';
-import 'package:flutter_story_editor/src/models/stroke.dart';
-import 'package:flutter_story_editor/src/widgets/hue_color_picker_slider.dart';
+import 'package:zero_story_editor/src/controller/controller.dart';
+import 'package:zero_story_editor/src/models/simple_sketecher.dart';
+import 'package:zero_story_editor/src/models/stroke.dart';
+import 'package:zero_story_editor/src/widgets/hue_color_picker_slider.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 import 'package:perfect_freehand/perfect_freehand.dart';
 

@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:flutter_story_editor/src/controller/controller.dart';
+import 'package:zero_story_editor/src/controller/controller.dart';
 
 import 'text_top_view.dart';
 class TextControlView extends StatelessWidget {

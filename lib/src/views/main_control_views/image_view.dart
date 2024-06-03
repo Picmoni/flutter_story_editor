@@ -1,12 +1,12 @@
 import 'dart:io';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_story_editor/src/const/filters.dart';
-import 'package:flutter_story_editor/src/controller/controller.dart';
-import 'package:flutter_story_editor/src/models/simple_sketecher.dart';
-import 'package:flutter_story_editor/src/models/stroke.dart';
-import 'package:flutter_story_editor/src/widgets/draggable_sticker_widget.dart';
-import 'package:flutter_story_editor/src/widgets/draggable_text_widget.dart';
+import 'package:zero_story_editor/src/const/filters.dart';
+import 'package:zero_story_editor/src/controller/controller.dart';
+import 'package:zero_story_editor/src/models/simple_sketecher.dart';
+import 'package:zero_story_editor/src/models/stroke.dart';
+import 'package:zero_story_editor/src/widgets/draggable_sticker_widget.dart';
+import 'package:zero_story_editor/src/widgets/draggable_text_widget.dart';
 
 // ImageView is a StatefulWidget that displays an image along with applied filters, stickers, and text overlays.
 class ImageView extends StatefulWidget {

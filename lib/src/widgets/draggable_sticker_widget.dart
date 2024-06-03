@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_story_editor/src/utils/matrix_gesture_detector.dart';
+import 'package:zero_story_editor/src/utils/matrix_gesture_detector.dart';
 
 class DraggableStickerWidget extends StatefulWidget {
   final String stickerPath;

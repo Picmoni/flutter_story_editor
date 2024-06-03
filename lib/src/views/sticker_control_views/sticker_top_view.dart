@@ -1,8 +1,8 @@
 
 import 'package:flutter/material.dart';
-import 'package:flutter_story_editor/src/controller/controller.dart';
-import 'package:flutter_story_editor/src/enums/story_editing_modes.dart';
-import 'package:flutter_story_editor/src/theme/style.dart';
+import 'package:zero_story_editor/src/controller/controller.dart';
+import 'package:zero_story_editor/src/enums/story_editing_modes.dart';
+import 'package:zero_story_editor/src/theme/style.dart';
 
 class StickerTopView extends StatelessWidget {
   final FlutterStoryEditorController controller;

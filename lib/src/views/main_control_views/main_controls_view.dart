@@ -3,13 +3,13 @@
 import 'dart:io';
 import 'dart:typed_data';
 import 'package:flutter/material.dart';
-import 'package:flutter_story_editor/src/controller/controller.dart';
-import 'package:flutter_story_editor/src/enums/story_editing_modes.dart';
-import 'package:flutter_story_editor/src/models/stroke.dart';
-import 'package:flutter_story_editor/src/utils/utils.dart';
-import 'package:flutter_story_editor/src/views/main_control_views/filters_view.dart';
-import 'package:flutter_story_editor/src/widgets/draggable_sticker_widget.dart';
-import 'package:flutter_story_editor/src/widgets/draggable_text_widget.dart';
+import 'package:zero_story_editor/src/controller/controller.dart';
+import 'package:zero_story_editor/src/enums/story_editing_modes.dart';
+import 'package:zero_story_editor/src/models/stroke.dart';
+import 'package:zero_story_editor/src/utils/utils.dart';
+import 'package:zero_story_editor/src/views/main_control_views/filters_view.dart';
+import 'package:zero_story_editor/src/widgets/draggable_sticker_widget.dart';
+import 'package:zero_story_editor/src/widgets/draggable_text_widget.dart';
 
 // Import additional custom views for different aspects of the UI.
 

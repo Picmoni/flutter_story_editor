@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
-import 'package:flutter_story_editor/src/controller/controller.dart';
-import 'package:flutter_story_editor/src/enums/story_editing_modes.dart';
+import 'package:zero_story_editor/src/controller/controller.dart';
+import 'package:zero_story_editor/src/enums/story_editing_modes.dart';
 
 
 class TextTopView extends StatelessWidget {

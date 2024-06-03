@@ -1,12 +1,12 @@
-library flutter_story_editor;
+library zero_story_editor;
 
 import 'dart:async';
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_keyboard_visibility/flutter_keyboard_visibility.dart';
-import 'package:flutter_story_editor/src/controller/controller.dart';
-import 'package:flutter_story_editor/src/utils/utils.dart';
+import 'package:zero_story_editor/src/controller/controller.dart';
+import 'package:zero_story_editor/src/utils/utils.dart';
 
 import 'src/const/filters.dart';
 import 'src/enums/story_editing_modes.dart';

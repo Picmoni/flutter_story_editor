@@ -2,8 +2,8 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_story_editor/src/const/const.dart';
-import 'package:flutter_story_editor/src/theme/style.dart';
+import 'package:zero_story_editor/src/const/const.dart';
+import 'package:zero_story_editor/src/theme/style.dart';
 
 // FiltersView is a StatefulWidget that displays a horizontal list of filters for users to apply to their media.
 class FiltersView extends StatefulWidget {

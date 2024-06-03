@@ -1,7 +1,7 @@
 import 'dart:ui';
 import 'package:flutter/material.dart';
-import 'package:flutter_story_editor/src/const/const.dart';
-import 'package:flutter_story_editor/src/controller/controller.dart';
+import 'package:zero_story_editor/src/const/const.dart';
+import 'package:zero_story_editor/src/controller/controller.dart';
 
 import 'sticker_top_view.dart';
 

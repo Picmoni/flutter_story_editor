@@ -2,12 +2,12 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_story_editor/src/const/filters.dart';
-import 'package:flutter_story_editor/src/controller/controller.dart';
-import 'package:flutter_story_editor/src/models/stroke.dart';
-import 'package:flutter_story_editor/src/utils/utils.dart';
-import 'package:flutter_story_editor/src/widgets/draggable_sticker_widget.dart';
-import 'package:flutter_story_editor/src/widgets/draggable_text_widget.dart';
+import 'package:zero_story_editor/src/const/filters.dart';
+import 'package:zero_story_editor/src/controller/controller.dart';
+import 'package:zero_story_editor/src/models/stroke.dart';
+import 'package:zero_story_editor/src/utils/utils.dart';
+import 'package:zero_story_editor/src/widgets/draggable_sticker_widget.dart';
+import 'package:zero_story_editor/src/widgets/draggable_text_widget.dart';
 // TopView is a StatefulWidget that provides the top bar interface for story editing controls.
 class TopView extends StatefulWidget {
   final File selectedFile; // The currently selected file for editing.

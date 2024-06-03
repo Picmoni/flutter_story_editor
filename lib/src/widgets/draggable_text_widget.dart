@@ -1,12 +1,12 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter_keyboard_visibility/flutter_keyboard_visibility.dart';
-import 'package:flutter_story_editor/src/const/filters.dart';
-import 'package:flutter_story_editor/src/controller/controller.dart';
-import 'package:flutter_story_editor/src/enums/story_editing_modes.dart';
-import 'package:flutter_story_editor/src/theme/style.dart';
-import 'package:flutter_story_editor/src/views/text_control_views/text_control_view.dart';
-import 'package:flutter_story_editor/src/widgets/hue_color_picker_slider.dart';
+import 'package:zero_story_editor/src/const/filters.dart';
+import 'package:zero_story_editor/src/controller/controller.dart';
+import 'package:zero_story_editor/src/enums/story_editing_modes.dart';
+import 'package:zero_story_editor/src/theme/style.dart';
+import 'package:zero_story_editor/src/views/text_control_views/text_control_view.dart';
+import 'package:zero_story_editor/src/widgets/hue_color_picker_slider.dart';
 
 class DraggableTextWidget extends StatefulWidget {
   final List<Widget> textList;
