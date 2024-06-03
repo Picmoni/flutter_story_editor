@@ -5,7 +5,7 @@ import 'package:zero_story_editor/src/models/simple_sketecher.dart';
 import 'package:zero_story_editor/src/models/stroke.dart';
 import 'package:zero_story_editor/src/theme/style.dart';
 
-import 'package:video_trimmer/video_trimmer.dart';
+import 'package:zero_video_trimmer/video_trimmer.dart';
 
 // TrimmerView is a StatefulWidget that provides a video trimming interface.
 class TrimmerView extends StatefulWidget {
